@@ -6,5 +6,7 @@ public class Example {
     System.out.println(a+b);
     System.out.println("added new feature");
     int c= a-b;
+    System.out.println("added new feature2");
+
     }
 }
