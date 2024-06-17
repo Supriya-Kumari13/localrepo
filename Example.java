@@ -5,5 +5,6 @@ public class Example {
     int a =2, b=9;
     System.out.println(a+b);
     System.out.println("added new feature");
+    int c= a-b;
     }
 }
